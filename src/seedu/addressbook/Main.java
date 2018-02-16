@@ -1,8 +1,6 @@
 package seedu.addressbook;
 
-import java.util.Collections;
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
 
 import seedu.addressbook.commands.Command;
 import seedu.addressbook.commands.CommandResult;
