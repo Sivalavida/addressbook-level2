@@ -54,7 +54,7 @@ Shows a list of all persons in the address book.<br>
 Format: `list`
 
 ### Finding all persons containing any keyword in their name: `find`
-Finds persons whose names contain any of the given keywords.<br>
+Finds persons whose names contain any of the given keywords regardless of casing casing of words.<br>
 Format: `find KEYWORD [MORE_KEYWORDS]`
 
 > The search is case sensitive, the order of the keywords does not matter, only the name is searched, 
